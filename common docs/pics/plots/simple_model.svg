@@ -1,0 +1,2406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="1052.36"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="model_lastdiagram.png"
+   inkscape:export-filename="/home/unre/workspace/matlab/squircles/common docs/pics/model_lastdiagram.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path6915"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3950"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3952" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3954" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3832"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3814"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3811"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5442"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5444"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-15"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5495"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5497"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5548"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5550"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-10"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5601"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5603"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-06"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-02"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-88"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-87"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-56"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <clipPath
+       id="cp21">
+      <polygon
+         points="73,190 73,204 88,204 88,190 73,190 "
+         id="polygon1999" />
+    </clipPath>
+    <clipPath
+       id="cp19">
+      <polygon
+         points="73,190 73,204 88,204 88,190 73,190 "
+         id="polygon1977" />
+    </clipPath>
+    <clipPath
+       id="cp17">
+      <polygon
+         points="73,190 73,204 88,204 88,190 73,190 "
+         id="polygon1955" />
+    </clipPath>
+    <clipPath
+       id="cp15">
+      <polygon
+         points="74,190 74,204 95,204 95,190 74,190 "
+         id="polygon1931" />
+    </clipPath>
+    <clipPath
+       id="cp13">
+      <polygon
+         points="74,190 74,204 95,204 95,190 74,190 "
+         id="polygon1907" />
+    </clipPath>
+    <clipPath
+       id="cp11">
+      <polygon
+         points="73,190 73,203.563 88,203.563 88,190 73,190 "
+         id="polygon1889" />
+    </clipPath>
+    <clipPath
+       id="cp10">
+      <polygon
+         points="74,13 74,364 434,364 434,13 74,13 "
+         id="polygon1874" />
+    </clipPath>
+    <clipPath
+       id="cp9">
+      <polygon
+         points="73,190 73,203.563 88,203.563 88,190 73,190 "
+         id="polygon1867" />
+    </clipPath>
+    <clipPath
+       id="cp7">
+      <polygon
+         points="73,190 73,203.563 88,203.563 88,190 73,190 "
+         id="polygon1845" />
+    </clipPath>
+    <clipPath
+       id="cp5">
+      <polygon
+         points="73,190 73,203.563 95,203.563 95,190 73,190 "
+         id="polygon1821" />
+    </clipPath>
+    <clipPath
+       id="cp3">
+      <polygon
+         points="73,190 73,203.563 95,203.563 95,190 73,190 "
+         id="polygon1797" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective289"
+       inkscape:persp3d-origin="360 : 153.33333 : 1"
+       inkscape:vp_z="720 : 230 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 230 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-0"
+       style="overflow:visible">
+      <path
+         id="path3832-0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-1"
+       style="overflow:visible">
+      <path
+         id="path3832-3"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-0-3"
+       style="overflow:visible">
+      <path
+         id="path3832-0-3"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-15"
+       style="overflow:visible">
+      <path
+         id="path3832-1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6052"
+       style="overflow:visible">
+      <path
+         id="path6054"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       id="cp3-4">
+      <polygon
+         points="95,203.563 95,190 73,190 73,190 73,203.563 "
+         id="polygon1797-3" />
+    </clipPath>
+    <clipPath
+       id="cp5-3">
+      <polygon
+         points="95,203.563 95,190 73,190 73,190 73,203.563 "
+         id="polygon1821-9" />
+    </clipPath>
+    <clipPath
+       id="cp7-2">
+      <polygon
+         points="88,203.563 88,190 73,190 73,190 73,203.563 "
+         id="polygon1845-2" />
+    </clipPath>
+    <clipPath
+       id="cp9-4">
+      <polygon
+         points="88,203.563 88,190 73,190 73,190 73,203.563 "
+         id="polygon1867-8" />
+    </clipPath>
+    <clipPath
+       id="cp10-5">
+      <polygon
+         points="434,364 434,13 74,13 74,13 74,364 "
+         id="polygon1874-2" />
+    </clipPath>
+    <clipPath
+       id="cp11-8">
+      <polygon
+         points="88,203.563 88,190 73,190 73,190 73,203.563 "
+         id="polygon1889-6" />
+    </clipPath>
+    <clipPath
+       id="cp13-6">
+      <polygon
+         points="95,204 95,190 74,190 74,190 74,204 "
+         id="polygon1907-2" />
+    </clipPath>
+    <clipPath
+       id="cp17-9">
+      <polygon
+         points="88,204 88,190 73,190 73,190 73,204 "
+         id="polygon1955-7" />
+    </clipPath>
+    <clipPath
+       id="cp19-6">
+      <polygon
+         points="88,204 88,190 73,190 73,190 73,204 "
+         id="polygon1977-6" />
+    </clipPath>
+    <clipPath
+       id="cp21-8">
+      <polygon
+         points="88,204 88,190 73,190 73,190 73,204 "
+         id="polygon1999-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath6076">
+      <polygon
+         points="95,203.563 95,190 73,190 73,190 73,203.563 "
+         id="polygon6078" />
+    </clipPath>
+    <clipPath
+       id="clipPath6080">
+      <polygon
+         points="95,203.563 95,190 73,190 73,190 73,203.563 "
+         id="polygon6082" />
+    </clipPath>
+    <clipPath
+       id="clipPath6084">
+      <polygon
+         points="88,203.563 88,190 73,190 73,190 73,203.563 "
+         id="polygon6086" />
+    </clipPath>
+    <clipPath
+       id="clipPath6088">
+      <polygon
+         points="88,203.563 88,190 73,190 73,190 73,203.563 "
+         id="polygon6090" />
+    </clipPath>
+    <clipPath
+       id="clipPath6092">
+      <polygon
+         points="88,203.563 88,190 73,190 73,190 73,203.563 "
+         id="polygon6094" />
+    </clipPath>
+    <clipPath
+       id="clipPath6096">
+      <polygon
+         points="95,204 95,190 74,190 74,190 74,204 "
+         id="polygon6098" />
+    </clipPath>
+    <clipPath
+       id="cp15-2">
+      <polygon
+         points="95,204 95,190 74,190 74,190 74,204 "
+         id="polygon1931-8" />
+    </clipPath>
+    <clipPath
+       id="clipPath6102">
+      <polygon
+         points="88,204 88,190 73,190 73,190 73,204 "
+         id="polygon6104" />
+    </clipPath>
+    <clipPath
+       id="clipPath6106">
+      <polygon
+         points="88,204 88,190 73,190 73,190 73,204 "
+         id="polygon6108" />
+    </clipPath>
+    <clipPath
+       id="clipPath6110">
+      <polygon
+         points="88,204 88,190 73,190 73,190 73,204 "
+         id="polygon6112" />
+    </clipPath>
+    <clipPath
+       id="cp21-1">
+      <polygon
+         points="73,190 73,204 88,204 88,190 73,190 "
+         id="polygon1999-0" />
+    </clipPath>
+    <clipPath
+       id="cp19-2">
+      <polygon
+         points="73,190 73,204 88,204 88,190 73,190 "
+         id="polygon1977-1" />
+    </clipPath>
+    <clipPath
+       id="cp17-4">
+      <polygon
+         points="73,190 73,204 88,204 88,190 73,190 "
+         id="polygon1955-3" />
+    </clipPath>
+    <clipPath
+       id="cp15-0">
+      <polygon
+         points="74,190 74,204 95,204 95,190 74,190 "
+         id="polygon1931-1" />
+    </clipPath>
+    <clipPath
+       id="cp13-3">
+      <polygon
+         points="74,190 74,204 95,204 95,190 74,190 "
+         id="polygon1907-20" />
+    </clipPath>
+    <clipPath
+       id="cp11-0">
+      <polygon
+         points="73,190 73,203.563 88,203.563 88,190 73,190 "
+         id="polygon1889-1" />
+    </clipPath>
+    <clipPath
+       id="cp10-1">
+      <polygon
+         points="74,13 74,364 434,364 434,13 74,13 "
+         id="polygon1874-6" />
+    </clipPath>
+    <clipPath
+       id="cp9-2">
+      <polygon
+         points="73,190 73,203.563 88,203.563 88,190 73,190 "
+         id="polygon1867-2" />
+    </clipPath>
+    <clipPath
+       id="cp7-4">
+      <polygon
+         points="73,190 73,203.563 88,203.563 88,190 73,190 "
+         id="polygon1845-1" />
+    </clipPath>
+    <clipPath
+       id="cp5-36">
+      <polygon
+         points="73,190 73,203.563 95,203.563 95,190 73,190 "
+         id="polygon1821-4" />
+    </clipPath>
+    <clipPath
+       id="cp3-43">
+      <polygon
+         points="73,190 73,203.563 95,203.563 95,190 73,190 "
+         id="polygon1797-6" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective289-7"
+       inkscape:persp3d-origin="360 : 153.33333 : 1"
+       inkscape:vp_z="720 : 230 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 230 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6915-3"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-2"
+       style="overflow:visible">
+      <path
+         id="path3832-5"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-6"
+       style="overflow:visible">
+      <path
+         id="path3832-2"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="536.44833"
+     inkscape:cy="277.2261"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1080"
+     inkscape:window-height="1865"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     height="1052.36px">
+    <sodipodi:guide
+       orientation="1,0"
+       position="156.79462,606.53347"
+       id="guide3962" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="162.38202,684.18895"
+       id="guide3964" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="121.21831,554.57375"
+       id="guide3966" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="276.27672,662.155"
+       id="guide3968" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="210.4274,646.6239"
+       id="guide3970" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="103.54064,556.90973"
+       id="guide3972" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="160.10918,608.20654"
+       id="guide4018" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="402.04071,554.57375"
+       id="guide4948" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="324.76404,662.155"
+       id="guide4950" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="591.94939,649.02301"
+       id="guide4952" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="463.66002,626.79966"
+       id="guide4954" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="374.7666,554.57375"
+       id="guide5386" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="558.10928,530.33009"
+       id="guide5388" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="443.53906,625.33594"
+       id="guide5910" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="477.56224,684.64509"
+       id="guide5912" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="449.89062,560.08594"
+       id="guide5914" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="451.53125,534.57812"
+       id="guide5934" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="480.875,687.25"
+       id="guide6026" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="445.54356,627.21476"
+       id="guide6028" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="458.9123,561.53117"
+       id="guide6032" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="766.5625,498"
+       id="guide6661" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="743.54687,536.75"
+       id="guide6663" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="749.89062,536.78125"
+       id="guide6665" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="777.5625,534.57812"
+       id="guide6667" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="757,561.53117"
+       id="guide7389" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="674.93342,497.80317"
+       id="guide8820" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="858.25085,491.61599"
+       id="guide8822" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="733.625,593"
+       id="guide8938" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-0.00216797)">
+    <image
+       y="-553.82385"
+       x="-571.7818"
+       id="image4054"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnYAAABPCAIAAADp3B/iAAAAA3NCSVQICAjb4U/gAAAFPUlEQVR4
+nO3d227bOhQEULrofwf+cp8HA0YRJ8e2xE2OqLWeW3NGF27JaZHL7XZrAEBvf2YHAIA1GbEAUMKI
+BYASRiwAlDBiAaCEEQsAJYxYAChhxAJACSMWAEoYsQBQwogFgBJ/xyxzvVxf/pmv29eAJPu97HKU
+Ig/PjQ5XASDQpe7XALwzVn+TtsVv7pJWpG3tElikbeqSWeTu/TrJLX70qHa45LBHyYjdM1z/Nf1u
+7FWkLdRlmSJtoS7Ti7ROXRKKtB5dQoo8W+9LuHCdR2zH7e9hyimvKNJmdCkq0hbqskyRNrZLXYuH
+MXUGFGnFXcZU+KZLoynJX+p4srqN2OojtczesUyRttYO2OrrjNxN6rqM3xMruszd2dcbTpsbRbV4
+iBuxCzwG3tnNN1jp8byoy6x9pG+d6bvhYpNpZ52cIs2I/V2H/7Qz7BhVLzTyZJeuNfiqLVruermO
+v/0qFp24iXRcOmErTMgQIu1QpOXJsXfErrGbl37yyBWnjKWKdefesStNpukBokQdjagwFNk1Ymft
+5of4zOR1wyUcli4ZEoq0HjFCirSkJPCO7SN2ja+/un/axNWn7z7TAwBE2Thip2+mvQJML9IrQ0KR
+5oWp31/va0+YqCItLw/8jy0jNuQSt5sD7wu8ywIj0dfHIzbqmogKM1HUcfDCBHB33t+0k7Z7bs6T
+VqRFRhos8AgERmKbzFOZmWq6z0Zs4EEMjMQ2macyM9UwmfUzU8Gzk77FZt6imakA2OaDERs7AGKD
+DRDbPTbYALHdY4PBqs74Fpu80SRng+OKvbNig9HFuyM2/DoIj8dLyWcwORuQ7IxvscsI3/rD4wFU
+O92Izd/38xNyEsmXYnI2eDjdiIVS4Vt/eDxYzFsj9hC35SFCAnAe3mKZL//xKD8hEMiIBYASRuxR
+HeK96hAhAYoYsQBQwogFgBJGLACUMGIBoIQRCwAljNij+rp9zY7w2iFCAhQxYgGghBHLfPkvu/kJ
+gUBvjdhD7C+HCAnAeXiLhZ7CH/XC48FiTjdi87eY/IScRPKlmJwNHk43YlcSvsuExwOo9u6IDd8u
+w+PxUvIZTM4GJDvjW2zyjpmcDY4r9s6KDUYXH4zY2EshNtgAsd1jgw0Q2z02GKzqjG+xLXWvyUwF
+wDafjdjAGRAYiW0yT2VmqmEy62emgmcnfYtteXfp5jxpRVpkpMECj0BgJLbJPJWZqab7eMRGHceo
+MBNFHYc9YaKKtLw8wLFseYsN2Xf2xwgp0pKSwKoC77LASPS18Yvi6VdGrwDTi/TKkFCkee7p99f7
+8tUCTLH9Z7ETL/S+S8+9YzuuPn3rmR4AIMquf+40ZUutWHTWbDCTfpRwWHy10PcTeslJAu/Y+y+K
+B1/xdcuNv3WLnhVmPff4aqH6ow4aIErU0YgKQ5EO/2ln2IVSvdDIK750rTWee6Y8LlQsusaPVBLm
+QUKGEGmHIi1PjsvtduvyQdfLtcvn/GbkKSztskyRNqpLdYuH6jrDirTiLiOLtJougyt806XR3Arf
+bG4U1eKh4yXXbcTeVRyvKc9HRSd+fJe6K3iZLssUaWs9wLW1nuFWeui5W+9B4SF3xN71OmrTv3zo
+ePqX6bJMkbZQl+lFWqcuCUVajy4hRZ69rBab/KBKRuzdnss07TRv7pJWpG3tElikbeqSWeTu/TrJ
+LX70qHa45LBH4Yj91zt7x1HuvfUeA58bHa4CQKBBIxYAzua8v2kHAEoZsQBQwogFgBJGLACUMGIB
+oIQRCwAljFgAKGHEAkAJIxYAShixAFDiP56gZ4+z29MaAAAAAElFTkSuQmCC
+"
+       height="26.811993"
+       width="213.81715"
+       transform="scale(-1,-1)" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:0.12785387;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4016-9"
+       width="268.70059"
+       height="268.70059"
+       x="324.24365"
+       y="310.91022"
+       rx="26.428572"
+       ry="26.428572" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="142.1631"
+       y="603.79077"
+       id="text3150"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="142.1631"
+         y="603.79077"
+         style="font-size:16px;text-align:center;text-anchor:middle"
+         id="tspan4024">RANDOM SELECTION</tspan><tspan
+         sodipodi:role="line"
+         x="142.1631"
+         y="623.79077"
+         style="font-size:16px;text-align:center;text-anchor:middle"
+         id="tspan9010">UNDER LIMITED CAPACITY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="463.63055"
+       y="604.54272"
+       id="text3150-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="463.63055"
+         y="604.54272"
+         style="font-size:16px;text-align:center;text-anchor:middle"
+         id="tspan3214">PERCEPTUAL</tspan><tspan
+         sodipodi:role="line"
+         x="463.63055"
+         y="624.54272"
+         style="font-size:16px;text-align:center;text-anchor:middle"
+         id="tspan9004">INTEGRATION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="743.63055"
+       y="604.54272"
+       id="text3150-9-0-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="743.63055"
+         y="604.54272"
+         style="font-size:16px;text-align:center;text-anchor:middle"
+         id="tspan6036">NOISY AVERAGING</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="977.63062"
+       y="450.54272"
+       id="text3150-9-0-3-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="977.63062"
+         y="450.54272"
+         style="font-size:16px;text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan3214-2-4">SQUARE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="977.63062"
+       y="604.54272"
+       id="text3150-9-0-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="977.63062"
+         y="604.54272"
+         style="font-size:16px;text-align:center;text-anchor:middle"
+         id="tspan3214-2-0">RESPONSE</tspan></text>
+    <image
+       y="338.07648"
+       x="50.72509"
+       id="image3067"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAIvAjADASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCKiiig
+AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKK
+KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKK
+KKACiiigLhRRRRqAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABR
+RRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFF
+FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABVKXV9PhxuuoznpsO7+Wa5TUtRmv53JdhDn5I+gA7c
+etUa74YJNXkz2aOWJpOTO0/t7Tf+fn/yG3+FH9vab/z8/wDkNv8ACuLorX6lT8zo/sule92dzFq+
+nzZ23UYx13nb/PFXa85q9puozWE6kOxhz88fUEd+PWsp4JJXiznrZYkuaEjuKKKK4DxgooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+qlq8vk6TcttzlNuM/wB7j+tXazde/wCQLcf8B/8AQhV0/jRth1erFeaOMPHFJRRXuH1oUUUUAFKO
+eKSjvQB3OkS+dpNs23GE24z/AHeP6VdrN0H/AJAtv/wL/wBCNaVeHU+NnyWIVqsl5sKKKKgxCiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+zde/5Atx/wAB/wDQhWlVLV4vO0m5XdjCbs4/u8/0q6fxo2w7tVi/NHDUUp55pK9w+tCiiigAo70U
+o45oA7PQf+QLb/8AAv8A0I1pVS0iLydJtl3Zym7OP73P9au14dT42fJYh3qyfmwoooqDEKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiinZjswooopCCiiigAooooAKKKKACiiigAooooAK
+KKKAOH1LTprCdwUYw5+STqCO3PrVGvRqpS6Rp82N1rGMdNg2/wAsV3wxqStJHs0czSSUkcNRXaf2
+Dpv/AD7f+RG/xo/sHTf+fb/yI3+Na/XafmdH9qUr2szi6vabp01/OoCMIc/PJ0AHfn1rq4tI0+HO
+21jOeu8bv55q7WU8amrRRz1szTXLCIUUUVwHjBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFFgCiiinZ
+hZhRRRSugCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAx9Z1l9OljhhjVpGG4l+gHI7d+K5+XWNQmUK124AOfkwp/MYo1iVZtWuWQEANtOfUDB/l
+VGvUpUoqJ9NhcLTjTTau2Wf7QvP+f24/7+t/jUMUs0DFoZHjYjGUYg4/CmUVvyrsdapQWyLP2++/
+5/Lj/v63+NXIvEOoxsS0iSjGMOgx+mKyqTtUulB9CJ0KclqjvdPvVv7NbgKFJJBUNnaQf8n8atVg
+eF5c21xDt+44bOeuRj/2X9a368qtFRm0j5nFU1TrSitgooorM5wooooAKKKKACiiigAooooAKKKK
+ACiiigLBRRRRqAUUUUAFFFFABRRRQAUUUUAFFFFABVHVr9tPsvNRQzlgqgjIz15/AGr1c/4olYQW
+0WBtZixPfIGP6mujCQVStGL2N8NFTqqLM1te1JiSJwoJzgIuB+lVP7Qvf+f24/7+t/jVftSV9LGh
+SS0ij3Y0aa2RZ/tC9/5/bj/v63+NL/aF5/z+XH/f1v8AGqtFV7Kn/KivZw7F+LWL+FSq3bkE5y+G
+P5nNa+jazPc3YtbpkOVJVguCx69uOme3auZq/o8qw6tbMwJBbbx6kYH8658Th6bpPQwr0IODaR29
+FFFfMLY8AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+Ka3GtzgtQ/5CV3/12f8AmarU+WJoLiSFiC0bFSR0yDimV7UdkfYUlaKQUUUUywpO1LSd6OoM6Hwv
+KouLmHB3MgYHtgHH9RXTVyfhj/kKS/8AXE/zWusry8V/EPmsxX79hRRRXOcAUUUUAFFFFABRRRQA
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVzvirraf8D/9lroq5zxV1tP+B/8A
+stduX/7xH+uh1YL+PE53sKSiivpT3wooopgFWrD/AJCNp/12T+YqrVnT/wDkJWn/AF2T+YrOr8Ev
+Qip8DO9ooor5F7nzL3CiiikAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUU
+AFFFFABRRRQBwV//AMhS6/67P/M1WrV8QxNHq7sxGJFVhj0xj+lZNezSd4Jn11CalTTFopKOavU2
+uLQOtGD6Uo4GSaBHQ+FlUvdtgbgEAOOQDn/AV0lYvhmEx6a0hQAySEhu5A4/nmtqvJru9Rny+Omp
+V3YKKKKxOQKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK5
+zxV1tP8Agf8A7LXR1h+KI1NjDIR86ybQfYg5/kK68C7V4s6cHJRrJnK0U7gjrTa+oaPoNgoopePW
+gBKs2H/IStP+uyfzFVq1NCVm1qEqCQoYkgdBtI/rWNeSVKT8jKtK1Ns7KiiivkmfNhRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQDKt7p9tfqouEJKghSG
+IK5//V3rKl8LQHHk3Mieu9Q2fyxW/RWka046JnRTxVamrRloczL4WmCjybpHbPR1KjH4ZqL/AIRi
+9/562/8A303+FdXRWn1qobrMa/c5pfCzlRuvAGxyBHkA/nVuHwzZRlTI0spA+YE4BP4c/rW1RUvE
+VH1M5Y6vLS4yGGO3hWKJAiKMACn0UVi3fVnK227sKKKKBBRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABUc8EV1C0My7o2xkZI757VJRTTcXdDTad0Ycnhe1KER
+zzK/Ytgj8sCof+EW/wCnz/yF/wDXroqK6ljq62kdEcXWjsznf+EW/wCn3/yF/wDXpP8AhFj/AM/v
+/kL/AOvXR0U/7QxH835D+u1/5jn4vC8QY+bdO646IoU5/WtKw0q1sGZ4t7ORjc7ZOOOPTtV6is54
+utUVpS0Ilias1aTCiiiucwCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKASuwoqlLq+nw43X
+cZz02Hd/LNVpfEenx42tJLnrsTp+eKpQk9kbQw1aeqizWorJi8R6fJnc0kWOm9Ov5ZqzFq+nzZ23
+cYx13nb/ADxQ4SW6HPDVoK7iy7RRRUmDVgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooppX
+2BJvYKKpS6vp8ON11Gc9Nh3fyzUX9vab/wA/P/kNv8K0VCq/ss1VCo+hpUVm/wBvab/z8/8AkNv8
+Kli1fT5s7bqMY67zt/nih0Kq+ywdCouhdooorJq25k1bcKKKKACiiigAooooAKKKKACiiigAoooo
+AK4bUdSl1C4dmdhDn5I+gA7cetdZq8vk6TcvtzlNuM/3uP61wtdWHimm2e3lNFNOo0L34FJRRXUe
+2LzR35FJRQBe07UpdPuEZXYw5+ePqCO/HrXc15xXdaRL52k2z7cYTbjP93j+lcuIikk0eJm1FJKo
+kXaKKK5TxAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuH1HUZtQuHJdhDn5I+gA7cetdXq8vk6Tctt
+zlNuM/3uP61w1evllFNOUkepl9JNOTF4FJRRXsnrBS8GkooAvabqM2n3CkOxhz88fUEd+PWu4rzm
+u50iXztJtm24wm3Gf7vH9K8bM6KSUoo8nMKSSUkXaKKK8g8sKKKKACiiigAooooAKKKKACiiimgM
+nxHL5eksm3PmOq5z07/0rjq7HxHF5mks+7HlurYx17f1rjq7cP8AAfSZVb2L9QooorY9IKKKKACu
+x8OS+ZpKptx5bsuc9e/9a46ux8OReXpKvuz5js2MdO39KxxHwHm5rb2K9TWoooriPmwooopAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBteHfDs3iG5kRJRDDCAZJSN2M5wAMjOcH8voCe
+IvDs3h65jR5RNDMCY5QNucYyCMnGMj8/qAeHfEU3h65kdIhNDMAJIiducZwQcHGMn8/oQeIvEU3i
+G5jd4hDDCCI4gd2M4yScDOcD8vqSAYtFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFD2DoZuvf8AIFuP+A/+hCuLrtNe/wCQLcf8B/8AQhXF172WX9k79z28u/hP1CiiivSO8KKK
+KACu00H/AJAtv/wL/wBCNcXXaaD/AMgW3/4F/wChGvNzO/slbucGYfw16mlRRRXgrY8QKKKKACii
+igAooooAKKKKACiiigClq8XnaTcpuxhN2cf3ef6Vwtej1w2o6bLp9w6sjGHPySdQR259a6sPJJNM
+9vKaySdNso0Uvfg0ldR7YUUvNHfk0AJXdaRF5Ok2ybs5TdnH97n+tcnp2my6hcIqowhz88nQAd+f
+Wu5rlxEk0kjxM2rJpU0wooorlPECiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooApavF52k3K7sYTdnH93
+n+lcNXo1cPqOnTafcOCjGHPySdQR259a9fLKyScZM9TL6qScWUaKXg0leyesFFFLwKAErudIi8nS
+bZd2cpuzj+9z/WuU03TptQuFARhDn55OgA78+tdxXjZnWTSjFnk5hVTSigoooryDywooooAKKKKA
+CiiigAooooAKKKKACiiigE7MpS6Rp82N1pGMdNg2/wAsVWl8OafJjaskWOux+v55rWoqlOS2ZtDE
+1oaKTMmLw5p8edyyS56b36flirMWkafDnbaRnPXeN3881dooc5Pdjnia01ZyYUUUVJg3cKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKadtgTa2KUukafNjdaxjHTYNv8sVF/YOm/8APt/5Eb/G
+tKitFXqr7TNVXqLqZv8AYOm/8+3/AJEb/GpYtI0+HO21jOeu8bv55q7RQ69V/aYOvUfUKKKKybvu
+ZN33CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACioLm8t7NN9xKsYPTPU/QdT1rIn8UQI2
+IIHlAJBLHaPw6/0rop4WrU1jE1hRqT1ijeorln8T3TSExwQqnYNkn88im/8ACTX3/PK3/Jv8a6Vl
+eI7GywVV9Dq6K5mLxTMFPnWqO2eqMVGPxzV+28R2U7Kkm+FiBy4+XPpkfzOKzqYCvDdESwtWPQ16
+KRWV1DKQykZBByCKWuJpp2ZztWCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAoooo30QBRWbfa3aWW5d3myj+BOx56ntyPr7VkS+KLgsPJt4kXHRyWOfw
+xXZSwFeqrxWh0Qw1SaukdTRXHv4i1BpVcNEijqipwfrnn9al/wCEnvf+eVv/AN8t/jW7ynEeRo8F
+VOrorDtvE9rIcTxvCSeo+YAfz/StqORJUDxuroejKcg1xVsPVpfEjnnSnDdDqKKKxMwooooAKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA5DxFM02qmLkLEoUD
+PBJ5z7dQPwrI5qe7kWW/uJEOUeRmU+oJqvX2eHpqnTUUfQ0YKEEkGaXmkorY0F5o6ikpe9AHX+HL
+lp9N8t2BaJtoGedvUZ/UfhWvXM+FpVFxcw4O5lDA9sA4/qK6avksfT5K7R4WKio1WFFFFcZzhRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABWbrd99i09trYlk+
+RMHkep/AfritKuW8USsb2CHA2rHuB75Jx/QV2YCkqtdRex0YaHPUSZhcAe9JigUV9ae4kraBRRRT
+Cwua3PDl28F6bU5KSjIHowGf5f0rCqWCXyLqKbbu8tw2M4zg5rDE0lVpOLM60FOLTPQqKKK+MPnw
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooprccd0ecD
+qKKkliaCaWFiC0bFSR0yDio6+2jblTR9HF3QUUUVQwpe9JQKANzwx/yFJf8Arif5rXV1yvhiNjfT
+SAfIse0n3JGP5Guqr5fNH/tDPFxrXtWFFFFeccgUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABRRRQAVx/iF3bV2DjCqihDjqOufzJ/KuwrlPE//ACFI/wDriP5tXp5S
+/wDaPkdmB/imHRS0lfTnsBRRRQAUdzRTlVmIVQWZjgADJJqZbCex6LRRRXxEt2fOvcKKKKQgoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiii9tQOJ1mDyNWuAA21z
+vBbvnk49s5/Ks6uy1jRxqIWSNgk6jaCx4I9D/n/63PT6NqEGSbZnXOAY/mz74HOK+owWNpSpRUpW
+aPaw+Ig4JNmdRUksUkDBZo3jYjOHUg4/Go8+9d/NG10zqUkwpR1qeO0upUDx28zoejKhINaEPh6+
+lb96EhQEZLMCSPbH/wBas6mIp01eTInWhBXbNHwvAyWs05yBIwUAjsO/6/pW9UFnbLZ2kVunIQYz
+6nufzqevk8VU9pVckeHWnz1HJBRRRWBkFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+UUUAFFFFABRRRQAUUUUAFYfie2MljHOASYmweeAD/wDXArcpskayxPG4yjgqw9Qa2w9b2VVSNKU+
+SaZ52T6Ulbt14cuoHzasJkJ+6xCsPz4Pb/CseWC4gI86GSPd03qRn86+tpYmlVV4s9yFaM1dMioo
+z6mnKC7BUBZicAAZJNa8y7l3Q2tLRbY3OrQjB2xnzGIPTHT9cUW2i6hcniAxrnBaX5cfh1/Sun0z
+TI9MhZVcu7nLORjOOnFebjsdShScYu7Zy4jEQUGk9S9RRRXzL3PGCiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiihOwBRRRQtACiiindj5n3CiiikIKKKKAC
+iiigAooooAKKKKACiiigAooooGlcKoy6xp8ON93Gc9Nh3/yzXJ6lqM2oTu7Owh3fJH0AHY49ao1t
+GkmtT3KOUJpOpI7VvEGmqpInLEDOAjZP5ihfEGmsoJnKkjOCjZH5CuKop+xR0f2RR7s7qLWNPmzs
+u4xjrvOz+eKvV5vV7TdRm0+ZHV2MO754+oI7nHrSlSSWhz1soSTdOR3VFFFYnhtWCiiigQUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRT5n3HdhRRRSuxBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAVR1iXydIuX27spsxnH3uP61erM8QMq6NOCwBYqACep3A/0qo7m2GipVop9zi/akpaSuo+0Cii
+igApfakooEd1o8vnaRbPt24TZjOfu8f0q9WboH/IEt/+Bf8AoRrSrllufGYiKjWkl3CiiipMQooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+szxAqto05KglSpBI6HcB/WtOqOsRedpFym7bhN+cZ+7z/SqjubYaSjWi33OGpKX3pK6j7QKKKKAC
+iil96BHa6B/yBLf/AIF/6Ea0qo6PF5OkWybt2U35xj73P9avVyy3PjMRJSrSa7hRRRUmIUUUUAFF
+FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+NOxwupadNp87oyMYd3ySdQR2GfWqNekVRl0fT5sb7SMY6bBs/lito1Ulqe5RzdJKNSJwtFdt/YGm
+f8+3/kRv8aP7A0z/AJ9v/Ijf40/bRN/7Xo9mcTV7TdOm1CZEVGEO755OgA7jPrXWRaPp8OdlpGc9
+d43/AM81epSqprQwrZumnGmgooorE8Nu4UUUUCCiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//Z
+"
+       height="211.75325"
+       width="212.13205" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ff0000;fill-opacity:0.12785387000000001;fill-rule:nonzero;stroke:#c00000;stroke-width:1.50204277000000008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3070"
+       sodipodi:cx="156.82619"
+       sodipodi:cy="370.25668"
+       sodipodi:rx="18.940361"
+       sodipodi:ry="18.940361"
+       d="m 175.76655,370.25668 c 0,10.46048 -8.47989,18.94036 -18.94036,18.94036 -10.46048,0 -18.94036,-8.47988 -18.94036,-18.94036 0,-10.46047 8.47988,-18.94036 18.94036,-18.94036 10.46047,0 18.94036,8.47989 18.94036,18.94036 z"
+       transform="translate(-1.6644013e-6,-2.0834507)" />
+    <path
+       style="color:#000000;fill:#0000ff;fill-opacity:0.12785387000000001;fill-rule:nonzero;stroke:#0000c0;stroke-width:1.50204277000000008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 103.54064,478.81968 c -10.46047,0 -18.9375,8.50828 -18.9375,18.96875 0,10.46047 8.47703,18.9375 18.9375,18.9375 10.46047,0 18.96875,-8.47703 18.96875,-18.9375 0,-10.46047 -8.50828,-18.96875 -18.96875,-18.96875 z"
+       id="path3070-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#008000;fill-opacity:0.12785387000000001;fill-rule:nonzero;stroke:#00c000;stroke-width:1.50204277000000008;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 210.49053,371.23843 c -10.46047,0 -18.9375,8.50828 -18.9375,18.96875 0,10.46047 8.47703,18.9375 18.9375,18.9375 10.46047,0 18.96875,-8.47703 18.96875,-18.9375 0,-10.46047 -8.50828,-18.96875 -18.96875,-18.96875 z"
+       id="path3070-4-8"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:0.12785387;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4016"
+       width="268.70059"
+       height="268.70059"
+       x="24.243662"
+       y="310.91022"
+       rx="26.428572"
+       ry="26.428572" />
+    <g
+       id="g4400"
+       transform="translate(187.55119,667.86346)">
+      <g
+         transform="matrix(1.364137,0,0,1.406645,-19.376016,57.579514)"
+         id="g8871"
+         clip-path="url(#cp3)">
+        <clipPath
+           id="clipPath9201">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon8874" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text8876"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text8878"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">3</text>
+      </g>
+      <g
+         transform="matrix(1.364137,0,0,1.406645,58.936361,57.579514)"
+         id="g8895"
+         clip-path="url(#cp5)">
+        <clipPath
+           id="clipPath9216">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon8898" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text8900"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text8902"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">2</text>
+      </g>
+      <g
+         transform="matrix(1.364137,0,0,1.406645,137.24874,57.579514)"
+         id="g8919"
+         clip-path="url(#cp7)">
+        <clipPath
+           id="clipPath9231">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon8922" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text8924"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text8926"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">1</text>
+      </g>
+      <g
+         id="g8943"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp9)">
+        <clipPath
+           id="clipPath9246">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon8946" />
+        </clipPath>
+        <polyline
+           points="265,124 265,121.563 "
+           id="polyline8948"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="276.438,124 276.438,121.563 "
+           id="polyline8950"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="287.938,124 287.938,121.563 "
+           id="polyline8952"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="299.438,124 299.438,121.563 "
+           id="polyline8954"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="310.938,124 310.938,120 "
+           id="polyline8956"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.364137,0,0,1.406645,298.64797,57.579514)"
+         id="g8958"
+         clip-path="url(#cp10)">
+        <clipPath
+           id="clipPath9255">
+          <polygon
+             points="73,126 73,126 73,140 80,140 80,126 "
+             id="polygon8961" />
+        </clipPath>
+      </g>
+      <g
+         id="g8965"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp11)">
+        <clipPath
+           id="clipPath9260">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon8968" />
+        </clipPath>
+        <polyline
+           points="322.375,124 322.375,121.563 "
+           id="polyline8970"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="333.875,124 333.875,121.563 "
+           id="polyline8972"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="345.375,124 345.375,121.563 "
+           id="polyline8974"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="356.813,124 356.813,121.563 "
+           id="polyline8976"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="368.313,124 368.313,120 "
+           id="polyline8978"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g8987"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp13)">
+        <clipPath
+           id="clipPath9274">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon8990" />
+        </clipPath>
+        <polyline
+           points="379.813,124 379.813,121.563 "
+           id="polyline8992"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="391.25,124 391.25,121.563 "
+           id="polyline8994"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="402.75,124 402.75,121.563 "
+           id="polyline8996"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="414.25,124 414.25,121.563 "
+           id="polyline8998"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="425.75,124 425.75,120 "
+           id="polyline9000"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g9029"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp17)">
+        <clipPath
+           id="clipPath9301">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon9032" />
+        </clipPath>
+        <polyline
+           points="253.5,219.5 255.875,219.5 "
+           id="polyline9034"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,212.688 255.875,212.688 "
+           id="polyline9036"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,205.875 255.875,205.875 "
+           id="polyline9038"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,199 255.875,199 "
+           id="polyline9040"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,192.188 257.5,192.188 "
+           id="polyline9042"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g9053"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp19)">
+        <clipPath
+           id="clipPath9316">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon9056" />
+        </clipPath>
+        <polyline
+           points="253.5,185.375 255.875,185.375 "
+           id="polyline9058"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,178.563 255.875,178.563 "
+           id="polyline9060"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,171.75 255.875,171.75 "
+           id="polyline9062"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,164.938 255.875,164.938 "
+           id="polyline9064"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,158.063 257.5,158.063 "
+           id="polyline9066"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g9077"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp21)">
+        <clipPath
+           id="clipPath9331">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon9080" />
+        </clipPath>
+        <polyline
+           points="253.5,151.25 255.875,151.25 "
+           id="polyline9082"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,144.438 255.875,144.438 "
+           id="polyline9084"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,137.625 255.875,137.625 "
+           id="polyline9086"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,130.813 255.875,130.813 "
+           id="polyline9088"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,124 257.5,124 "
+           id="polyline9090"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g10133"
+         transform="translate(714,63)"
+         clip-path="url(#cp3)">
+        <clipPath
+           id="clipPath10481">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon10136" />
+        </clipPath>
+        <polyline
+           points="83.9375,124 83.9375,121.563 "
+           id="polyline10138"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="94.5,124 94.5,120 "
+           id="polyline10140"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g10151"
+         transform="translate(714,63)"
+         clip-path="url(#cp5)">
+        <clipPath
+           id="clipPath10493">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon10154" />
+        </clipPath>
+        <polyline
+           points="105.125,124 105.125,121.563 "
+           id="polyline10156"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="115.75,124 115.75,121.563 "
+           id="polyline10158"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="126.313,124 126.313,121.563 "
+           id="polyline10160"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="136.938,124 136.938,121.563 "
+           id="polyline10162"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="147.5,124 147.5,120 "
+           id="polyline10164"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g10175"
+         transform="translate(714,63)"
+         clip-path="url(#cp7)">
+        <clipPath
+           id="clipPath10508">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon10178" />
+        </clipPath>
+        <polyline
+           points="158.125,124 158.125,121.563 "
+           id="polyline10180"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="168.688,124 168.688,121.563 "
+           id="polyline10182"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="179.313,124 179.313,121.563 "
+           id="polyline10184"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="189.938,124 189.938,121.563 "
+           id="polyline10186"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="200.5,124 200.5,120 "
+           id="polyline10188"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g10199"
+         transform="translate(714,63)"
+         clip-path="url(#cp9)">
+        <clipPath
+           id="clipPath10523">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon10202" />
+        </clipPath>
+        <polyline
+           points="211.125,124 211.125,121.563 "
+           id="polyline10204"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="221.688,124 221.688,121.563 "
+           id="polyline10206"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="232.313,124 232.313,121.563 "
+           id="polyline10208"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="242.875,124 242.875,121.563 "
+           id="polyline10210"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="253.5,124 253.5,120 "
+           id="polyline10212"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(943.992,62.9753)"
+         id="g10229"
+         clip-path="url(#cp11)">
+        <clipPath
+           id="clipPath10541">
+          <polygon
+             points="73,126 73,126 73,140 80,140 80,126 "
+             id="polygon10232" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10234"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">1</text>
+      </g>
+      <g
+         transform="translate(996.984,62.9753)"
+         id="g10251"
+         clip-path="url(#cp13)">
+        <clipPath
+           id="clipPath10555">
+          <polygon
+             points="73,126 73,126 73,140 80,140 80,126 "
+             id="polygon10254" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10256"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">2</text>
+      </g>
+      <g
+         transform="translate(1049.976,62.9753)"
+         id="g10273"
+         clip-path="url(#cp15)">
+        <clipPath
+           id="clipPath10569">
+          <polygon
+             points="73,126 73,126 73,140 80,140 80,126 "
+             id="polygon10276" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10278"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">3</text>
+      </g>
+      <g
+         transform="translate(878.5,142.67554)"
+         id="g10297"
+         clip-path="url(#cp17)">
+        <clipPath
+           id="clipPath10584">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon10300" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10302"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text10304"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">3</text>
+      </g>
+      <g
+         transform="translate(878.5,113.10879)"
+         id="g10321"
+         clip-path="url(#cp19)">
+        <clipPath
+           id="clipPath10599">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon10324" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10326"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text10328"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">2</text>
+      </g>
+      <g
+         transform="translate(878.5,83.54204)"
+         id="g10345"
+         clip-path="url(#cp21)">
+        <clipPath
+           id="clipPath10614">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon10348" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10350"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text10352"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">1</text>
+      </g>
+      <g
+         id="layer3"
+         style="display:inline"
+         inkscape:label="Plot"
+         transform="translate(-215.41555,-113.13709)">
+        <path
+           sodipodi:nodetypes="cssssssc"
+           d="m 537.10563,-111.69263 c -0.26241,0 -42.49257,-0.0156 -42.74279,-0.0164 -9.28881,-0.0317 -10.29397,-0.64386 -11.5631,-1.22165 -5.06728,-2.30697 -6.56029,-6.27426 -9.44712,-12.2599 -3.17161,-6.57615 -5.36091,-15.15991 -9.2397,-15.15991 -3.14164,0 -5.57796,8.324 -8.74959,14.90016 -2.88682,5.98564 -4.6058,10.25866 -9.67308,12.56563 -1.30332,0.59336 -2.59239,1.17695 -12.5961,1.17695"
+           style="fill:none;stroke:#4e9a06;stroke-width:0.6255464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path2844"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csssssc"
+           d="m 546.50563,-165.69638 c -14.34593,0 -13.39646,-0.19385 -15.13585,-0.38805 -6.74471,-0.75303 -9.80577,-7.15417 -12.48527,-13.1508 -3.39749,-7.60349 -5.92749,-15.1122 -8.98349,-15.1122 -3.05599,0 -5.58599,7.50871 -8.98349,15.1122 -2.67949,5.99663 -5.74056,12.39777 -12.48526,13.1508 -1.73939,0.1942 -0.78993,0.38805 -15.13586,0.38805"
+           style="fill:none;stroke:#cc0000;stroke-width:0.62335402;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path2842"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccssssscc"
+           d="m 569.19688,-57.635013 -49.80909,-0.0096 c -5.81238,-0.0011 -8.30536,-0.281943 -9.56742,-0.651927 -5.94873,-1.743912 -7.3973,-6.177912 -10.43247,-12.503679 -3.82379,-7.969384 -5.69287,-15.770491 -8.93129,-15.770491 -3.23843,0 -5.10751,7.801107 -8.9313,15.770491 -3.03517,6.325767 -4.48374,10.759767 -10.43247,12.503679 -1.26206,0.369984 -3.75504,0.650805 -9.56742,0.651927 l -49.80909,0.0096"
+           style="fill:none;stroke:#204a87;stroke-width:0.61417609;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path2846"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 292.94424,444.15345 c 31.8198,0 31.8198,0 31.8198,0"
+       id="path4956"
+       inkscape:connector-curvature="0"
+       transform="translate(0,0.00216797)" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.39215686000000000;marker-end:url(#Arrow2Lend);marker-start:url(#Arrow2Lstart)"
+       d="m 374.7666,517.78841 183.34268,0"
+       id="path5390"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00c000;fill-opacity:1;fill-rule:nonzero;stroke:#00c000;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872-4"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(0.71311599,0,0,0.71311599,111.43125,172.23767)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#0000c0;fill-opacity:1;fill-rule:nonzero;stroke:#0000c0;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872-4-5"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(0.71311599,0,0,0.71311599,117.78281,237.81913)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#0000c0;fill-opacity:1;fill-rule:nonzero;stroke:#0000c0;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872-4-5-9"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(0.50641615,0,0,0.50641615,214.04574,338.12243)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00c000;fill-opacity:1;fill-rule:nonzero;stroke:#00c000;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872-4-7"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(0.50641615,0,0,0.50641615,207.67856,338.12243)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:#c00000;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872-47"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(0.50641615,0,0,0.50641615,241.71736,338.12243)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="354.5"
+       y="387.36215"
+       id="text5972"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5974"
+         x="354.5"
+         y="387.36215">s<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan6018">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="354.5"
+       y="441.36215"
+       id="text5972-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5974-1"
+         x="354.5"
+         y="441.36215">s<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan6020">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="354.5"
+       y="495.36215"
+       id="text5972-0-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5974-1-7"
+         x="354.5"
+         y="495.36215">s<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan6022">3</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#c00000;stroke-width:0.40345675;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40345673, 2.4207404;stroke-dashoffset:0"
+       d="m 477.56224,365.11215 0,152.67189"
+       id="path6024"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#00c000;stroke-width:0.40000000000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.40000000000000002, 2.39999999999999991;stroke-dashoffset:0"
+       d="m 443.53906,425.14523 0,92.63664"
+       id="path6030"
+       inkscape:connector-curvature="0"
+       transform="translate(0,0.00216797)" />
+    <path
+       style="fill:none;stroke:#0000c0;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.4,2.4;stroke-dashoffset:0"
+       d="m 449.89062,490.82882 0,26.95305"
+       id="path6034"
+       inkscape:connector-curvature="0"
+       transform="translate(0,0.00216797)" />
+    <image
+       y="-553.82385"
+       x="-871.7818"
+       id="image4054-3"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnYAAABPCAIAAADp3B/iAAAAA3NCSVQICAjb4U/gAAAFPUlEQVR4 nO3d227bOhQEULrofwf+cp8HA0YRJ8e2xE2OqLWeW3NGF27JaZHL7XZrAEBvf2YHAIA1GbEAUMKI BYASRiwAlDBiAaCEEQsAJYxYAChhxAJACSMWAEoYsQBQwogFgBJ/xyxzvVxf/pmv29eAJPu97HKU Ig/PjQ5XASDQpe7XALwzVn+TtsVv7pJWpG3tElikbeqSWeTu/TrJLX70qHa45LBHyYjdM1z/Nf1u 7FWkLdRlmSJtoS7Ti7ROXRKKtB5dQoo8W+9LuHCdR2zH7e9hyimvKNJmdCkq0hbqskyRNrZLXYuH MXUGFGnFXcZU+KZLoynJX+p4srqN2OojtczesUyRttYO2OrrjNxN6rqM3xMruszd2dcbTpsbRbV4 iBuxCzwG3tnNN1jp8byoy6x9pG+d6bvhYpNpZ52cIs2I/V2H/7Qz7BhVLzTyZJeuNfiqLVruermO v/0qFp24iXRcOmErTMgQIu1QpOXJsXfErrGbl37yyBWnjKWKdefesStNpukBokQdjagwFNk1Ymft 5of4zOR1wyUcli4ZEoq0HjFCirSkJPCO7SN2ja+/un/axNWn7z7TAwBE2Thip2+mvQJML9IrQ0KR 5oWp31/va0+YqCItLw/8jy0jNuQSt5sD7wu8ywIj0dfHIzbqmogKM1HUcfDCBHB33t+0k7Z7bs6T VqRFRhos8AgERmKbzFOZmWq6z0Zs4EEMjMQ2macyM9UwmfUzU8Gzk77FZt6imakA2OaDERs7AGKD DRDbPTbYALHdY4PBqs74Fpu80SRng+OKvbNig9HFuyM2/DoIj8dLyWcwORuQ7IxvscsI3/rD4wFU O92Izd/38xNyEsmXYnI2eDjdiIVS4Vt/eDxYzFsj9hC35SFCAnAe3mKZL//xKD8hEMiIBYASRuxR HeK96hAhAYoYsQBQwogFgBJGLACUMGIBoIQRCwAljNij+rp9zY7w2iFCAhQxYgGghBHLfPkvu/kJ gUBvjdhD7C+HCAnAeXiLhZ7CH/XC48FiTjdi87eY/IScRPKlmJwNHk43YlcSvsuExwOo9u6IDd8u w+PxUvIZTM4GJDvjW2zyjpmcDY4r9s6KDUYXH4zY2EshNtgAsd1jgw0Q2z02GKzqjG+xLXWvyUwF wDafjdjAGRAYiW0yT2VmqmEy62emgmcnfYtteXfp5jxpRVpkpMECj0BgJLbJPJWZqab7eMRGHceo MBNFHYc9YaKKtLw8wLFseYsN2Xf2xwgp0pKSwKoC77LASPS18Yvi6VdGrwDTi/TKkFCkee7p99f7 8tUCTLH9Z7ETL/S+S8+9YzuuPn3rmR4AIMquf+40ZUutWHTWbDCTfpRwWHy10PcTeslJAu/Y+y+K B1/xdcuNv3WLnhVmPff4aqH6ow4aIErU0YgKQ5EO/2ln2IVSvdDIK750rTWee6Y8LlQsusaPVBLm QUKGEGmHIi1PjsvtduvyQdfLtcvn/GbkKSztskyRNqpLdYuH6jrDirTiLiOLtJougyt806XR3Arf bG4U1eKh4yXXbcTeVRyvKc9HRSd+fJe6K3iZLssUaWs9wLW1nuFWeui5W+9B4SF3xN71OmrTv3zo ePqX6bJMkbZQl+lFWqcuCUVajy4hRZ69rBab/KBKRuzdnss07TRv7pJWpG3tElikbeqSWeTu/TrJ LX70qHa45LBH4Yj91zt7x1HuvfUeA58bHa4CQKBBIxYAzua8v2kHAEoZsQBQwogFgBJGLACUMGIB oIQRCwAljFgAKGHEAkAJIxYAShixAFDiP56gZ4+z29MaAAAAAElFTkSuQmCC "
+       height="26.811993"
+       width="213.81715"
+       transform="scale(-1,-1)" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:0.12785387;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4016-9-6"
+       width="268.70059"
+       height="268.70059"
+       x="624.24365"
+       y="310.91022"
+       rx="26.428572"
+       ry="26.428572" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 592.94424,444.15562 c 31.8198,0 31.8198,0 31.8198,0"
+       id="path4956-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.39215686;marker-end:url(#Arrow2Lend)"
+       d="m 674.7666,517.78841 183.34268,0"
+       id="path5390-7"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#0000c0;fill-opacity:1;fill-rule:nonzero;stroke:#0000c0;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872-4-5-9-8"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(0.50641615,0,0,0.50641615,514.04574,338.12243)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00c000;fill-opacity:1;fill-rule:nonzero;stroke:#00c000;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872-4-7-7"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(0.50641615,0,0,0.50641615,507.67856,338.12243)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:#c00000;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872-47-0"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(0.50641615,0,0,0.50641615,541.71736,338.12243)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.2,0.8;stroke-dashoffset:0"
+       d="m 766.5625,365.11214 0,152.67189"
+       id="path6024-2"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g7734"
+       transform="matrix(0.66223992,0,0,1.700773,1409.8595,3560.6235)">
+      <g
+         transform="matrix(1.364137,0,0,1.406645,-19.376016,57.579514)"
+         id="g8871-5"
+         clip-path="url(#cp3-43)">
+        <clipPath
+           id="clipPath9201-1">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon8874-8" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text8876-8"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text8878-9"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">3</text>
+      </g>
+      <g
+         transform="matrix(1.364137,0,0,1.406645,58.936361,57.579514)"
+         id="g8895-8"
+         clip-path="url(#cp5-36)">
+        <clipPath
+           id="clipPath9216-4">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon8898-3" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text8900-4"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text8902-8"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">2</text>
+      </g>
+      <g
+         transform="matrix(1.364137,0,0,1.406645,137.24874,57.579514)"
+         id="g8919-9"
+         clip-path="url(#cp7-4)">
+        <clipPath
+           id="clipPath9231-8">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon8922-2" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text8924-2"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text8926-2"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">1</text>
+      </g>
+      <g
+         id="g8943-6"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp9-2)">
+        <clipPath
+           id="clipPath9246-5">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon8946-0" />
+        </clipPath>
+        <polyline
+           points="265,124 265,121.563 "
+           id="polyline8948-7"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="276.438,124 276.438,121.563 "
+           id="polyline8950-6"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="287.938,124 287.938,121.563 "
+           id="polyline8952-4"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="299.438,124 299.438,121.563 "
+           id="polyline8954-9"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="310.938,124 310.938,120 "
+           id="polyline8956-8"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.364137,0,0,1.406645,298.64797,57.579514)"
+         id="g8958-6"
+         clip-path="url(#cp10-1)">
+        <clipPath
+           id="clipPath9255-0">
+          <polygon
+             points="73,126 73,126 73,140 80,140 80,126 "
+             id="polygon8961-2" />
+        </clipPath>
+      </g>
+      <g
+         id="g8965-0"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp11-0)">
+        <clipPath
+           id="clipPath9260-5">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon8968-5" />
+        </clipPath>
+        <polyline
+           points="322.375,124 322.375,121.563 "
+           id="polyline8970-3"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="333.875,124 333.875,121.563 "
+           id="polyline8972-7"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="345.375,124 345.375,121.563 "
+           id="polyline8974-0"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="356.813,124 356.813,121.563 "
+           id="polyline8976-6"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="368.313,124 368.313,120 "
+           id="polyline8978-5"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g8987-8"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp13-3)">
+        <clipPath
+           id="clipPath9274-6">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon8990-3" />
+        </clipPath>
+        <polyline
+           points="379.813,124 379.813,121.563 "
+           id="polyline8992-4"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="391.25,124 391.25,121.563 "
+           id="polyline8994-1"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="402.75,124 402.75,121.563 "
+           id="polyline8996-9"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="414.25,124 414.25,121.563 "
+           id="polyline8998-2"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="425.75,124 425.75,120 "
+           id="polyline9000-2"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g9029-0"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp17-4)">
+        <clipPath
+           id="clipPath9301-7">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon9032-4" />
+        </clipPath>
+        <polyline
+           points="253.5,219.5 255.875,219.5 "
+           id="polyline9034-2"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,212.688 255.875,212.688 "
+           id="polyline9036-5"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,205.875 255.875,205.875 "
+           id="polyline9038-1"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,199 255.875,199 "
+           id="polyline9040-3"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,192.188 257.5,192.188 "
+           id="polyline9042-2"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g9053-7"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp19-2)">
+        <clipPath
+           id="clipPath9316-9">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon9056-4" />
+        </clipPath>
+        <polyline
+           points="253.5,185.375 255.875,185.375 "
+           id="polyline9058-5"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,178.563 255.875,178.563 "
+           id="polyline9060-7"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,171.75 255.875,171.75 "
+           id="polyline9062-6"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,164.938 255.875,164.938 "
+           id="polyline9064-9"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,158.063 257.5,158.063 "
+           id="polyline9066-9"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g9077-3"
+         transform="matrix(1.364137,0,0,1.406645,-21.116655,57.614261)"
+         clip-path="url(#cp21-1)">
+        <clipPath
+           id="clipPath9331-4">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon9080-3" />
+        </clipPath>
+        <polyline
+           points="253.5,151.25 255.875,151.25 "
+           id="polyline9082-0"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,144.438 255.875,144.438 "
+           id="polyline9084-4"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,137.625 255.875,137.625 "
+           id="polyline9086-9"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,130.813 255.875,130.813 "
+           id="polyline9088-6"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+        <polyline
+           points="253.5,124 257.5,124 "
+           id="polyline9090-4"
+           style="fill:none;stroke:#000000;stroke-width:0.13535678px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g10133-7"
+         transform="translate(714,63)"
+         clip-path="url(#cp3-43)">
+        <clipPath
+           id="clipPath10481-1">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon10136-8" />
+        </clipPath>
+        <polyline
+           points="83.9375,124 83.9375,121.563 "
+           id="polyline10138-8"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="94.5,124 94.5,120 "
+           id="polyline10140-1"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g10151-3"
+         transform="translate(714,63)"
+         clip-path="url(#cp5-36)">
+        <clipPath
+           id="clipPath10493-2">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon10154-1" />
+        </clipPath>
+        <polyline
+           points="105.125,124 105.125,121.563 "
+           id="polyline10156-2"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="115.75,124 115.75,121.563 "
+           id="polyline10158-8"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="126.313,124 126.313,121.563 "
+           id="polyline10160-3"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="136.938,124 136.938,121.563 "
+           id="polyline10162-7"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="147.5,124 147.5,120 "
+           id="polyline10164-9"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g10175-8"
+         transform="translate(714,63)"
+         clip-path="url(#cp7-4)">
+        <clipPath
+           id="clipPath10508-2">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon10178-6" />
+        </clipPath>
+        <polyline
+           points="158.125,124 158.125,121.563 "
+           id="polyline10180-9"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="168.688,124 168.688,121.563 "
+           id="polyline10182-8"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="179.313,124 179.313,121.563 "
+           id="polyline10184-3"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="189.938,124 189.938,121.563 "
+           id="polyline10186-7"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="200.5,124 200.5,120 "
+           id="polyline10188-4"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+      </g>
+      <g
+         id="g10199-2"
+         transform="translate(714,63)"
+         clip-path="url(#cp9-2)">
+        <clipPath
+           id="clipPath10523-6">
+          <polygon
+             points="74,13 74,13 74,236 434,236 434,13 "
+             id="polygon10202-0" />
+        </clipPath>
+        <polyline
+           points="211.125,124 211.125,121.563 "
+           id="polyline10204-6"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="221.688,124 221.688,121.563 "
+           id="polyline10206-1"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="232.313,124 232.313,121.563 "
+           id="polyline10208-0"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="242.875,124 242.875,121.563 "
+           id="polyline10210-2"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+        <polyline
+           points="253.5,124 253.5,120 "
+           id="polyline10212-3"
+           style="fill:none;stroke:#000000;stroke-width:0.1875px;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(943.992,62.9753)"
+         id="g10229-8"
+         clip-path="url(#cp11-0)">
+        <clipPath
+           id="clipPath10541-8">
+          <polygon
+             points="73,126 73,126 73,140 80,140 80,126 "
+             id="polygon10232-0" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10234-0"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">1</text>
+      </g>
+      <g
+         transform="translate(996.984,62.9753)"
+         id="g10251-9"
+         clip-path="url(#cp13-3)">
+        <clipPath
+           id="clipPath10555-1">
+          <polygon
+             points="73,126 73,126 73,140 80,140 80,126 "
+             id="polygon10254-1" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10256-4"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">2</text>
+      </g>
+      <g
+         transform="translate(1049.976,62.9753)"
+         id="g10273-5"
+         clip-path="url(#cp15-0)">
+        <clipPath
+           id="clipPath10569-2">
+          <polygon
+             points="73,126 73,126 73,140 80,140 80,126 "
+             id="polygon10276-6" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10278-4"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">3</text>
+      </g>
+      <g
+         transform="translate(878.5,142.67554)"
+         id="g10297-7"
+         clip-path="url(#cp17-4)">
+        <clipPath
+           id="clipPath10584-5">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon10300-3" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10302-8"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text10304-9"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">3</text>
+      </g>
+      <g
+         transform="translate(878.5,113.10879)"
+         id="g10321-2"
+         clip-path="url(#cp19-2)">
+        <clipPath
+           id="clipPath10599-7">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon10324-7" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10326-5"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text10328-6"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">2</text>
+      </g>
+      <g
+         transform="translate(878.5,83.54204)"
+         id="g10345-2"
+         clip-path="url(#cp21-1)">
+        <clipPath
+           id="clipPath10614-0">
+          <polygon
+             points="73,126 73,126 73,140 87,140 87,126 "
+             id="polygon10348-5" />
+        </clipPath>
+        <text
+           x="74"
+           y="137"
+           id="text10350-4"
+           style="font-size:10px;fill:#000000;font-family:SVGTimes"
+           font-size="10px">-</text>
+        <text
+           x="80.5"
+           y="137"
+           id="text10352-8"
+           style="font-size:10px;fill:#000000;font-family:Times New Roman"
+           font-size="10px">1</text>
+      </g>
+      <g
+         id="layer3-1"
+         style="display:inline"
+         inkscape:label="Plot">
+        <path
+           sodipodi:nodetypes="csc"
+           d="m -923.60988,-1797.3592 c -28.44256,-10.5638 -41.59279,-58.9223 -62.22542,-58.9223 -20.6326,0 -33.7828,48.3585 -62.2254,58.9223"
+           style="fill:none;stroke:#c88d00;stroke-width:1.82403874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path2848"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99993116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.39215686;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 674.93342,517.78841 183.31743,0"
+       id="path5390-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9678182px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 892.94424,444.15562 c 29.80471,0 29.80471,0 29.80471,0"
+       id="path4956-5-0"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:0.12785387;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.61628646;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4016-9-6-4"
+       width="110.38855"
+       height="110.10672"
+       x="923.39972"
+       y="390.20715"
+       rx="10.857481"
+       ry="15.77952" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffc000;fill-opacity:1;fill-rule:nonzero;stroke:#ffc000;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872-4-5-9-8-6-9"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(1.4423809,0,0,1.4423809,61.888622,-48.639725)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:#c00000;stroke-width:1.50204277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5872"
+       sodipodi:cx="465.71359"
+       sodipodi:cy="354.77069"
+       sodipodi:rx="2.0535715"
+       sodipodi:ry="2.0535715"
+       d="m 467.76716,354.77069 a 2.0535715,2.0535715 0 1 1 -4.10714,0 2.0535715,2.0535715 0 1 1 4.10714,0 z"
+       transform="matrix(0.71311599,0,0,0.71311599,145.45443,112.14721)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="766.5625"
+       y="348.36215"
+       id="text8994"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8996"
+         x="766.5625"
+         y="348.36215"
+         style="text-align:center;text-anchor:middle">DECISION</tspan><tspan
+         sodipodi:role="line"
+         x="766.5625"
+         y="363.36215"
+         id="tspan8998"
+         style="text-align:center;text-anchor:middle">BOUNDARY</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+squircles_1S_01 :
+	[shape]
+	var{.1;.2}
+	ss{2;4;8}
+
+squircles_2D_01 :
+	[shape + color]
+	var{.1;.2}
+	ss{2;4;8}
+
+squircles_1S_02 :
+	[shape]
+	var{.1;.2}
+	ss{2;4;8}
+	ray{}
+
+squircles_2D_02 :
+	[shape + color]
+	var{.1;.2}
+	ss{2;4;8}
+	ray{}
+
